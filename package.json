@@ -4,7 +4,8 @@
   "description": "Criando uma aplicação que no front-end usamos React, Sass, Bootstrap, Redux e autenticação com JWT.  No Back-end: Express, Sequelize, Axios",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/JuanPablo192/Aplicacao-ReactJs#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
   }
 }
