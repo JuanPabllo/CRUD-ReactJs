@@ -1,14 +1,14 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Juan Pablo",
-      "email": "juanp@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Bina barros2",
-      "email": "bina@e2mpresa.com"
-    }
-  ]
+    "users": [
+        {
+            "id": 1,
+            "name": "Juan Pablo",
+            "email": "juanp@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Bina barros",
+            "email": "bina@empresa.com"
+        }
+    ]
 }
