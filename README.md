@@ -1,5 +1,5 @@
 # Crud em React
- Criando uma aplicação que no front-end usamos React, Sass, Bootstrap.  No Back-end: Json server, Axios.
+ Nessa aplicação usamos no front-end: React, Sass, Bootstrap e no Back-end: Json server, Axios.
  
  ## Instalação
 
