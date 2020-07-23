@@ -15,6 +15,12 @@ Depois disso acesse a pasta que você deseja e instale as dependências executan
 
 ## Executando a aplicação
 
-Execute o comando a baixo para inicializar o React:
+Execute o comando a baixo para inicializar o React(nas pastas "backend" e na pasta "frontend":
 ```sh
   $ yarn start # ou npm start
+```
+
+## Screenshot
+
+<img alt="crud1" title="crud1" src="/imgGit/photo1.png">
+<img alt="crud1" title="crud1" src="/imgGit/photo2.png">
